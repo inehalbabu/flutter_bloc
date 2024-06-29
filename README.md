@@ -7,8 +7,8 @@ Welcome to the Flutter BLoC Projects repository! This repository contains multip
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Project 1: Counter App](#project-1-counter-app)
-  - [Project 2: Todo App](#project-2-todo-app)
-  - [Project 3: Weather App](#project-3-weather-app)
+  - [Project 2: Timer App](#project-2-todo-app)
+  - [Project 3: Paginatin App](#project-3-weather-app)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -29,25 +29,23 @@ A simple counter application that demonstrates the basic usage of BLoC for state
 
 - **Features:**
   - Increment and decrement counter
-  - Reset counter
+  
+### Project 2: Timer App
 
-### Project 2: Todo App
-
-A todo application that shows how to handle more complex state management with multiple BLoCs.
-
-- **Features:**
-  - Add, update, and delete todos
-  - Filter todos by status (completed, pending)
-  - Persist todos locally
-
-### Project 3: Weather App
-
-A weather application that integrates with a public API to fetch and display weather data.
+A Timer application that shows how to handle more complex state management with multiple BLoCs.
 
 - **Features:**
-  - Search for weather by city
-  - Display current weather conditions
-  - Show 7-day weather forecast
+  - Implemented 1 Minut Timer
+  - Do Start, Pause, Reset
+
+### Project 3: Pagination App
+
+A Pagination application that integrates with a public API to fetch and display list data.
+
+- **Features:**
+  - Consume Api With the help of http
+  - Store List and Show in UI
+  - Implemented Pagination
 
 ## Getting Started
 
@@ -64,8 +62,8 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/flutter-bloc-projects.git
-    cd flutter-bloc-projects
+    https://github.com/inehalbabu/flutter_bloc.git
+    cd flutter_bloc
     ```
 
 2. Navigate to the project directory and install dependencies:
