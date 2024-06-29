@@ -31,7 +31,7 @@ A simple counter application that demonstrates the basic usage of BLoC for state
   - Increment and decrement counter
 
 - **Videos**
-    - ![Screen Recording](flutter_counter/assets/Screen_recording.gif)
+  - <img src="flutter_counter/assets/Screen_recording.gif" alt="Screen Recording" height="600">
   
 ### Project 2: Timer App
 
